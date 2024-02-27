@@ -37,6 +37,12 @@ View Saved Events: Events that have been saved will be displayed within the appr
 To change the details of an existing event, click on the timeblock where the event was saved.
 Edit the text as needed and click the save button to update the event in local storage.
 
+![image](https://github.com/UmmulColumbia/TimePlanningPro/assets/156148729/a2e22119-1239-4a03-abe5-04bd400c73a9)
+
+![image](https://github.com/UmmulColumbia/TimePlanningPro/assets/156148729/498efdf7-2497-4bcb-a67c-c7f2266645fa)
+
+
+
 - **Tips**:
   
 Regularly update your events to reflect any changes in your schedule.
