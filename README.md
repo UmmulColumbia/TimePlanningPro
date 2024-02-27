@@ -54,7 +54,16 @@ Use the color coding to quickly ascertain past, present, and future events at a 
 If your events are not saving, ensure that your browser is not set to private or incognito mode, as this can affect the ability to save to local storage.
 For any display issues, verify that you are using an up-to-date web browser.
 
-#### By following these instructions, you can maximize your productivity with the TimePlanningPro. Happy planning!
+## live link:
+https://ummulcolumbia.github.io/Interactive-quizmaster/
+
+## Credits
+This project was created by Ummul Mukta as a demonstration of jQuery and Day.js programming skills.
+
+## License
+This project is licensed under the MIT License.
+
+#### By following these instructions, you can maximize your productivity with the TimePlanningPro application. Happy planning!
 
 
 
