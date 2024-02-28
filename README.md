@@ -43,10 +43,6 @@ Edit the text as needed and click the save button to update the event in local s
 
 ![image](https://github.com/UmmulColumbia/TimePlanningPro/assets/156148729/9be109a4-6dda-4fe1-bf4c-473da5e0c3a9)
 
-![image](https://github.com/UmmulColumbia/TimePlanningPro/assets/156148729/e8fa22fd-c49e-47a7-9716-7f7f1a14f495)
-
-
-
 
 
 - **Tips**:
