@@ -57,7 +57,7 @@ If your events are not saving, ensure that your browser is not set to private or
 For any display issues, verify that you are using an up-to-date web browser.
 
 ## live link:
-https://ummulcolumbia.github.io/Interactive-quizmaster/
+https://ummulcolumbia.github.io/TimePlanningPro/
 
 ## Credits
 This project was created by Ummul Mukta as a demonstration of jQuery and Day.js programming skills.
