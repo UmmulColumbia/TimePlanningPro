@@ -1,8 +1,6 @@
 $(document).ready(function () {
   // Display the current day at the top of the calendar
   $('#currentDay').text(dayjs().format('dddd, MMMM D, YYYY'));
-  
-  
  
   // Function to create time blocks
   function createTimeBlocks() {
@@ -53,8 +51,6 @@ $(document).ready(function () {
                 </div>
           `);
 
-           
-           // $('header').after(confirmationMessage);
             // Style the confirmation message
             confirmationMessage.css({
                 'position': 'absolute',
@@ -70,12 +66,10 @@ $(document).ready(function () {
         
             // Prepend the confirmation message to the container
             $('.container-lg.px-5').prepend(confirmationMessage);
-             // Insert the confirmation message after the header
          
         
             // Fade in the confirmation message
             confirmationMessage.fadeIn('slow', function() {
-               
                 setTimeout(function() {
                     confirmationMessage.fadeOut('slow', function() {
                         confirmationMessage.remove(); // Remove the message from the DOM
